@@ -1,0 +1,140 @@
+,Country,Number of crypto owners,Percentage of the population,code,iso_3
+0,Albania,"28,559",0.99%,AL,ALB
+1,Angola,"349,536",1.06%,AO,AGO
+2,Argentina,"1,327,067",2.94%,AR,ARG
+3,Armenia,"33,270",1.12%,AM,ARM
+4,Australia,"857,553",3.36%,AU,AUS
+5,Austria,"171,578",1.91%,AT,AUT
+6,Azerbaijan,"98,217",0.97%,AZ,AZE
+7,Bahrain,"16,685",0.98%,BH,BHR
+8,Bangladesh,"3,742,571",2.27%,BD,BGD
+9,Barbados,"3,022",1.05%,BB,BRB
+10,Belarus,"352,498",3.73%,BY,BLR
+11,Belgium,"272,990",2.36%,BE,BEL
+12,Belize,"3,569",0.90%,BZ,BLZ
+13,Benin,"161,981",1.34%,BJ,BEN
+14,Bolivia,"215,461",1.85%,BO,BOL
+15,Bosnia and Herzegovina,"45,002",1.37%,BA,BIH
+16,Botswana,"25,010",1.06%,BW,BWA
+17,Brazil,"10,373,187",4.88%,BR,BRA
+18,Brunei,"3,979",0.91%,BN,BRN
+19,Bulgaria,"120,842",1.74%,BG,BGR
+20,Burkina Faso,"197,532",0.94%,BF,BFA
+21,Cambodia,"225,368",1.35%,KH,KHM
+22,Cameroon,"499,423",1.88%,CM,CMR
+23,Canada,"1,206,627",3.20%,CA,CAN
+24,Chile,"500,125",2.62%,CL,CHL
+25,Colombia,"3,122,449",6.14%,CO,COL
+26,Congo,"61,302",1.11%,CG,COG
+27,Costa Rica,"75,913",1.49%,CR,CRI
+28,Croatia,"62,150",1.51%,HR,HRV
+29,Cyprus,"20,139",1.67%,CY,CYP
+30,Czech Republic,"238,285",2.23%,CZ,CZE
+31,Denmark,"79,451",1.37%,DK,DNK
+32,Dominican Republic,"201,516",1.86%,DO,DOM
+33,Ecuador,"482,496",2.73%,EC,ECU
+34,Egypt,"1,791,852",1.75%,EG,EGY
+35,El Salvador,"125,873",1.94%,SV,SLV
+36,Estonia,"32,032",2.41%,EE,EST
+37,Ethiopia,"1,127,264",0.98%,ET,ETH
+38,Finland,"104,241",1.88%,FI,FIN
+39,France,"2,179,654",3.34%,FR,FRA
+40,Gabon,"20,241",0.91%,GA,GAB
+41,Georgia,"115,241",2.89%,GE,GEO
+42,Germany,"2,191,986",2.62%,DE,DEU
+43,Ghana,"934,482",3.01%,GH,GHA
+44,Greece,"194,860",1.87%,GR,GRC
+45,Guatemala,"239,375",1.34%,GT,GTM
+46,Haiti,"107,752",0.94%,HT,HTI
+47,Honduras,"101,815",1.03%,HN,HND
+48,Hong Kong,"245,012",3.27%,HK,HKG
+49,Hungary,"131,365",1.36%,HU,HUN
+50,Iceland,"3,387",0.99%,IS,ISL
+51,India,"100,740,320",7.30%,IN,IND
+52,Indonesia,"7,285,707",2.66%,ID,IDN
+53,Iran,"1,649,897",1.96%,IR,IRN
+54,Iraq,"375,328",0.93%,IQ,IRQ
+55,Ireland,"84,704",1.72%,IE,IRL
+56,Israel,"109,493",1.27%,IL,ISR
+57,Italy,"1,309,499",2.17%,IT,ITA
+58,Ivory Coast,"343,067",1.30%,Cl,CHL
+59,Jamaica,"39,214",1.32%,JM,JAM
+60,Japan,"2,079,653",1.64%,JP,JPN
+61,Jordan,"129,071",1.27%,JO,JOR
+62,Kazakhstan,"324,325",1.73%,KZ,KAZ
+63,Kenya,"4,580,760",8.52%,KE,KEN
+64,Kuwait,"47,949",1.12%,KW,KWT
+65,Kyrgyzstan,"63,199",0.97%,KG,KGZ
+66,Latvia,"62,091",3.29%,LV,LVA
+67,Lebanon,"70,158",1.03%,LB,LBN
+68,Lithuania,"70,254",2.58%,LT,LTU
+69,Luxembourg,"7,325",1.17%,LU,LUX
+70,Macao,"5,828",0.90%,MO,MAC
+71,Macedonia,"23,639",1.13%,MK,MKD
+72,Madagascar,"301,061",1.09%,MG,MDG
+73,Malawi,"176,240",0.92%,MW,MWI
+74,Malaysia,"1,019,405",3.15%,MY,MYS
+75,Maldives,"5,108",0.94%,MV,MDV
+76,Mali,"232,172",1.15%,ML,MLI
+77,Malta,"6,371",1.44%,MT,MLT
+78,Mauritius,"20,007",1.57%,MU,MUS
+79,Mexico,"3,189,799",2.47%,MX,MEX
+80,Moldova,"54,377",1.35%,MD,MDA
+81,Montenegro,"9,955",1.59%,ME,MNE
+82,Morocco,"878,168",2.38%,MA,MAR
+83,Mozambique,"499,115",1.60%,MZ,MOZ
+84,Myanmar,"494,815",0.91%,MM,MMR
+85,Namibia,"28,529",1.12%,NA,NAM
+86,Nepal,"423,840",1.45%,NP,NPL
+87,Netherlands,"521,404",3.04%,NL,NLD
+88,New Zealand,"85,008",1.76%,NZ,NZL
+89,Nicaragua,"73,594",1.11%,NI,NIC
+90,Nigeria,"13,016,341",6.31%,NG,NGA
+91,Norway,"93,640",1.73%,NO,NOR
+92,Oman,"49,467",0.97%,OM,OMN
+93,Pakistan,"9,051,827",4.10%,PK,PAK
+94,Panama,"85,779",1.99%,PA,PAN
+95,Papua New Guinea,"79,245",0.89%,PG,PNG
+96,Paraguay,"75,010",1.05%,PY,PRY
+97,Peru,"1,233,892",3.74%,PE,PER
+98,Philippines,"4,360,579",3.98%,PH,PHL
+99,Poland,"945,298",2.50%,PL,POL
+100,Portugal,"241,389",2.37%,PT,PRT
+101,Puerto Rico,"35,851",1.25%,PR,PRI
+102,Qatar,"28,591",0.99%,QA,QAT
+103,Republic of Serbia,"151,954",1.74%,RS,SRB
+104,Romania,"423,496",2.20%,RO,ROU
+105,Russia,"17,379,175",11.91%,RU,RUS
+106,Rwanda,"188,410",1.45%,RW,RWA
+107,Saudi Arabia,"452,778",1.30%,SA,SAU
+108,Senegal,"203,874",1.22%,SN,SEN
+109,Singapore,"549,903",9.40%,SG,SGP
+110,Slovakia,"140,249",2.57%,SK,SVK
+111,Slovenia,"50,940",2.45%,SI,SVN
+112,South Africa,"4,215,944",7.11%,ZA,ZAF
+113,South Korea,"1,942,933",3.79%,KR,KOR
+114,Spain,"1,173,340",2.51%,ES,ESP
+115,Sri Lanka,"321,641",1.50%,LK,LKA
+116,Sudan,"101,798",0.91%,SD,SDN
+117,Suriname,"5,474",0.93%,SR,SUR
+118,Sweden,"228,309",2.26%,SE,SWE
+119,Switzerland,"157,695",1.82%,CH,CHE
+120,Syria,"177,824",1.02%,SY,SYR
+121,Tanzania,"1,095,494",1.83%,TZ,TZA
+122,Thailand,"3,629,713",5.20%,TH,THA
+123,The Bahamas,"3,576",0.91%,BS,BHS
+124,Togo,"131,221",1.59%,TG,TGO
+125,Trinidad and Tobago,"16,377",1.17%,TT,TTO
+126,Tunisia,"122,890",1.04%,TN,TUN
+127,Turkey,"2,476,418",2.94%,TR,TUR
+128,USA,"27,491,810",8.31%,US,USA
+129,Uganda,"828,022",1.81%,UG,UGA
+130,Ukraine,"5,565,881",12.73%,UA,UKR
+131,United Arab Emirates,"152,077",1.54%,AE,ARE
+132,United Kingdom,"3,360,591",4.95%,GB,GBR
+133,Uruguay,"50,119",1.44%,UY,URY
+134,Uzbekistan,"344,047",1.03%,UZ,UZB
+135,Venezuela,"2,941,502",10.34%,VE,VEN
+136,Vietnam,"5,961,684",6.12%,VN,VNM
+137,Yemen,"278,315",0.93%,YE,YEM
+138,Zambia,"271,781",1.48%,ZM,ZMB
