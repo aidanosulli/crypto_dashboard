@@ -1,2 +1,3 @@
-# crypto_dashboard
-Practice Dashboard using Dash by Plotly
+# Crypto Currency Dashboard
+
+Practice Dashboard using Dash by Plotly. 
